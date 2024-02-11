@@ -8,7 +8,6 @@ This is a personal CV webpage for Stephanie, a math and computer science student
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 No installation is required for this webpage.
@@ -21,9 +20,6 @@ No installation is required for this webpage.
 
 ## Contributing
 Contributions are not currently being accepted as this is a personal project.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## HTML Structure
 The HTML structure consists of the following sections:
